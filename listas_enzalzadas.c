@@ -64,7 +64,7 @@ void delete_all_de_lista(struct node* head, int n)
     return;
 }
 
-
+//vdt
 
 
 
